@@ -13,3 +13,7 @@ Designed for **SOC analysts and threat hunters** working with **Splunk, Elastic,
 ✅ **Custom SIEM Queries**  
 - Identify suspicious login attempts (SIEM correlation rules).  
 - Detect **PowerShell-based attacks & living-off-the-land (LOTL) techniques**. 
+
+✅ **Endpoint & Network Hunting**  
+- Investigate **malicious DNS lookups**.  
+- Detect **abnormal PowerShell execution & privilege escalation**.  
