@@ -17,3 +17,11 @@ Designed for **SOC analysts and threat hunters** working with **Splunk, Elastic,
 ✅ **Endpoint & Network Hunting**  
 - Investigate **malicious DNS lookups**.  
 - Detect **abnormal PowerShell execution & privilege escalation**.  
+
+---
+
+## 🛠 Tools Used:
+- **SIEM Platforms:** Splunk, Graylog, ElasticSearch  
+- **Threat Intelligence:** MISP, AbuseIPDB  
+- **Firewall & EDR:** Palo Alto, CrowdStrike  
+- **Frameworks:** MITRE ATT&CK, Sigma Rules  
