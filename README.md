@@ -38,3 +38,8 @@ Welcome to the **Threat Hunting Labs** repository! This project is dedicated to 
 - Extract IoCs from malicious binaries
 - Reverse engineering for behavior analysis
 - Detect fileless malware attacks
+
+### 🔹 **Cloud Security Threats**
+- AWS/Azure log monitoring
+- Unauthorized API calls detection
+- Identity & access management anomaly detection
