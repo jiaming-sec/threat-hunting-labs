@@ -43,3 +43,11 @@ Welcome to the **Threat Hunting Labs** repository! This project is dedicated to 
 - AWS/Azure log monitoring
 - Unauthorized API calls detection
 - Identity & access management anomaly detection
+
+## 🛠 Tools & Technologies
+- **SIEM Solutions**: Splunk, Elastic Stack, QRadar
+- **Endpoint Security**: CrowdStrike, Microsoft Defender ATP
+- **Network Security**: Suricata, Zeek, Wireshark
+- **Threat Intelligence**: VirusTotal, MISP, OpenCTI
+- **Hunting Frameworks**: Velociraptor, Kansa, Sysmon
+
