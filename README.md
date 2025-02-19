@@ -1,7 +1,5 @@
 # Threat Hunting Labs
 
-![Threat Hunting Banner](https://user-images.githubusercontent.com/your-image-link/banner.png)
-
 ## 🔍 About This Repository
 Welcome to the **Threat Hunting Labs** repository! This project is dedicated to hands-on cybersecurity exercises focused on **threat hunting**, **incident detection**, and **forensic analysis**. It aims to provide practical insights into identifying malicious activities, investigating security incidents, and improving detection techniques.
 
