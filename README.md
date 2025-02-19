@@ -12,3 +12,14 @@ Welcome to the **Threat Hunting Labs** repository! This project is dedicated to 
 - 📊 **MITRE ATT&CK Mapping** – Threat techniques aligned with the MITRE ATT&CK framework.
 - ⚡ **Automated Threat Hunting Scripts** – Python scripts to analyze logs and detect anomalies.
 - 🏴‍☠️ **Adversary Emulation** – Simulate real-world attack techniques using Red Team tools.
+
+## 📂 Repository Structure
+```plaintext
+📦 threat-hunting-labs
+ ┣ 📁 datasets/                # Sample logs and PCAPs for analysis
+ ┣ 📁 detection-rules/         # YARA, Sigma, and Splunk rules
+ ┣ 📁 hunting-scripts/         # Python-based hunting scripts
+ ┣ 📁 reports/                 # Case studies and investigation reports
+ ┣ 📁 documentation/           # Tutorials, playbooks, and guides
+ ┣ 📜 README.md                # This file
+```
