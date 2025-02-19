@@ -1,27 +1,14 @@
-# 🔎 SIEM Threat Hunting Labs  
+# Threat Hunting Labs
 
-📌 **A collection of SIEM queries, dashboards, and threat hunting techniques.**  
-Designed for **SOC analysts and threat hunters** working with **Splunk, Elastic, and other SIEMs**.  
+![Threat Hunting Banner](https://user-images.githubusercontent.com/your-image-link/banner.png)
 
----
+## 🔍 About This Repository
+Welcome to the **Threat Hunting Labs** repository! This project is dedicated to hands-on cybersecurity exercises focused on **threat hunting**, **incident detection**, and **forensic analysis**. It aims to provide practical insights into identifying malicious activities, investigating security incidents, and improving detection techniques.
 
-## 📊 Included Labs:
-✅ **Threat Detection Dashboards**  
-- Create **Splunk dashboards** for real-time monitoring.  
-- Use **MITRE ATT&CK mappings** for threat visibility. 
-
-✅ **Custom SIEM Queries**  
-- Identify suspicious login attempts (SIEM correlation rules).  
-- Detect **PowerShell-based attacks & living-off-the-land (LOTL) techniques**. 
-
-✅ **Endpoint & Network Hunting**  
-- Investigate **malicious DNS lookups**.  
-- Detect **abnormal PowerShell execution & privilege escalation**.  
-
----
-
-## 🛠 Tools Used:
-- **SIEM Platforms:** Splunk, Graylog, ElasticSearch  
-- **Threat Intelligence:** MISP, AbuseIPDB  
-- **Firewall & EDR:** Palo Alto, CrowdStrike  
-- **Frameworks:** MITRE ATT&CK, Sigma Rules  
+## 🚀 Key Features
+- 📌 **Realistic Threat Scenarios** – Simulated attack cases to practice detection techniques.
+- 🔎 **Threat Intelligence Analysis** – Utilize OSINT tools for intelligence gathering.
+- 🛡 **Endpoint & Network Forensics** – Log analysis using SIEM tools (Splunk, Elastic, etc.).
+- 📊 **MITRE ATT&CK Mapping** – Threat techniques aligned with the MITRE ATT&CK framework.
+- ⚡ **Automated Threat Hunting Scripts** – Python scripts to analyze logs and detect anomalies.
+- 🏴‍☠️ **Adversary Emulation** – Simulate real-world attack techniques using Red Team tools.
