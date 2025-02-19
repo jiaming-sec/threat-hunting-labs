@@ -23,3 +23,8 @@ Welcome to the **Threat Hunting Labs** repository! This project is dedicated to 
  ┣ 📁 documentation/           # Tutorials, playbooks, and guides
  ┣ 📜 README.md                # This file
 ```
+## 🎯 Threat Hunting Use Cases
+### 🔹 **Network Traffic Analysis**
+- Identify anomalous traffic patterns
+- Detect command & control (C2) communications
+- Analyze PCAPs and NetFlow logs
