@@ -28,3 +28,8 @@ Welcome to the **Threat Hunting Labs** repository! This project is dedicated to 
 - Identify anomalous traffic patterns
 - Detect command & control (C2) communications
 - Analyze PCAPs and NetFlow logs
+  
+### 🔹 **Endpoint Log Analysis**
+- Hunt for suspicious PowerShell executions
+- Detect unauthorized privilege escalations
+- Identify persistence mechanisms
