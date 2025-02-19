@@ -51,3 +51,12 @@ Welcome to the **Threat Hunting Labs** repository! This project is dedicated to 
 - **Threat Intelligence**: VirusTotal, MISP, OpenCTI
 - **Hunting Frameworks**: Velociraptor, Kansa, Sysmon
 
+## 📜 How to Get Started
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/jiaming-sec/threat-hunting-labs.git
+   cd threat-hunting-labs
+   ```
+2. **Explore the Labs** – Browse `datasets/`, `hunting-scripts/`, and `reports/` for case studies.
+3. **Run the Scripts** – Execute threat-hunting Python scripts in `hunting-scripts/`.
+4. **Contribute** – Submit pull requests with new detection rules or hunting scenarios!
