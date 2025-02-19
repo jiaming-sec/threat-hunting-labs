@@ -33,3 +33,8 @@ Welcome to the **Threat Hunting Labs** repository! This project is dedicated to 
 - Hunt for suspicious PowerShell executions
 - Detect unauthorized privilege escalations
 - Identify persistence mechanisms
+
+### 🔹 **Malware Analysis**
+- Extract IoCs from malicious binaries
+- Reverse engineering for behavior analysis
+- Detect fileless malware attacks
